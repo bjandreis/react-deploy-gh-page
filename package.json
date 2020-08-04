@@ -1,6 +1,6 @@
 {
   "name": "react-deploy-gh-page",
-  "homepage": "http://bjandreis.github.io/react-deploy-gh-page"
+  "homepage": "http://bjandreis.github.io/react-deploy-gh-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
